@@ -1,0 +1,10 @@
+AMBU Bag
+RS-775 Motor
+TB6600 Stepper Motor Driver
+Nema 23 Stepper Motor
+Bearing
+GY-68 (BMP180) Barometric Atmospheric Pressure
+Heart-Rate Pulse Sensor & Oximeter MAX30102 compatible Arduino Raspberry STM32
+Acrylic sheet
+3D-Printing Cost
+RFID Arduino Kit
